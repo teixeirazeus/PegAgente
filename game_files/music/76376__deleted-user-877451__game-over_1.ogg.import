@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/76376__deleted-user-877451__game-over_1.ogg-f124c4a5db118570fefea9e728ca0d99.oggstr"
+
+[deps]
+
+source_file="res://music/76376__deleted-user-877451__game-over_1.ogg"
+dest_files=[ "res://.import/76376__deleted-user-877451__game-over_1.ogg-f124c4a5db118570fefea9e728ca0d99.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

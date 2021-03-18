@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/320655__rhodesmas__level-up-01_1.ogg-d01c2f61ea630118762ed52e774e4406.oggstr"
+
+[deps]
+
+source_file="res://music/320655__rhodesmas__level-up-01_1.ogg"
+dest_files=[ "res://.import/320655__rhodesmas__level-up-01_1.ogg-d01c2f61ea630118762ed52e774e4406.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
