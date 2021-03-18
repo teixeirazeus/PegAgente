@@ -1,2 +1,4 @@
 # PegAgente
-Jogo educativo com modelagem de agente utilizando aprendizado por reforço
+![](header.png)
+
+Jogo educativo com modelagem de agente utilizando aprendizado por reforço.
