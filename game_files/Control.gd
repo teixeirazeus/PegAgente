@@ -21,12 +21,15 @@ func _ready():
 #func _process(delta):
 #	pass
 
+var count = 0
 
 func _input(event):
 	if event is InputEventKey:
 		if event.pressed:
-			$FadeIn.show()
-			$FadeIn.fade_in()
+			if count == 2:
+				$FadeIn.show()
+				$FadeIn.fade_in()
+			count += 1
 			
 
 

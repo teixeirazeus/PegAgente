@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SLOWEST-TEMPO2019-12-11_-_Retro_Platforming_-_David_Fesliyan.mp3-a9545db3bcc19dd8378b0d0eeebb3f4f.mp3str"
+
+[deps]
+
+source_file="res://music/SLOWEST-TEMPO2019-12-11_-_Retro_Platforming_-_David_Fesliyan.mp3"
+dest_files=[ "res://.import/SLOWEST-TEMPO2019-12-11_-_Retro_Platforming_-_David_Fesliyan.mp3-a9545db3bcc19dd8378b0d0eeebb3f4f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
